@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",شبکه یک
+https://live-aburayhan1108.telewebion.ir/ek/tv1/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",شبکه دو
+https://live-aburayhan1111.telewebion.ir/ek/tv2/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",شبکه سه
+https://live-aburayhan1112.telewebion.ir/ek/tv3/live/108050p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",شبکه چهار
+https://live-aburayhan1109.telewebion.ir/ek/tv4/live/576p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",شبکه خبر (IRINN)
+https://live-aburayhan1111.telewebion.ir/ek/irinn/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",شبکه خبر ۲
+https://live-aburayhan1112.telewebion.ir/ek/irinn2/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",نسیم
+https://live-aburayhan1110.telewebion.ir/ek/nasim/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",آموزش
+https://live-aburayhan1103.telewebion.ir/ek/amouzesh/live/576p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",مستند
+https://live-aburayhan1104.telewebion.ir/ek/mostanad/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",پویا
+https://live-aburayhan1112.telewebion.ir/ek/pooya/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",نهال
+https://live-aburayhan1112.telewebion.ir/ek/pooya/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",امید
+https://live-aburayhan1111.telewebion.ir/ek/omid/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",نمایش
+https://live-aburayhan1105.telewebion.ir/ek/namayesh/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",تماشا
+https://live-aburayhan1105.telewebion.ir/ek/hdtest/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",سلامت
+https://live-aburayhan1107.telewebion.ir/ek/salamat/live/576p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",ورزش
+https://live-aburayhan1110.telewebion.ir/ek/varzesh/live/108050p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",تهران
+https://live-aburayhan1108.telewebion.ir/ek/tehran/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",آی‌فیلم فارسی
+https://live-aburayhan1113.telewebion.ir/ek/ifilm/live/1080p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های سراسری ایران",IRIB UHD
+https://live-aburayhan1104.telewebion.ir/ek/faratar/live/2160p/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",4U Family
+https://familyhls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",4U TV Iranian
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Cheshm e Oghab
+https://choghls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",DEJ TV
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",FX HD Farsi
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Gord Afarid TV
+https://gatvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Home+
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",ICNet
+https://icnet1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",ICNet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",ICNet 3
+https://ic3hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Iran e Farda
+https://iranefardalive.com/stream/live.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Iran International
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Iran TV Network
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Iran Wire
+https://irwhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Meta Film
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Nahade Azadi
+https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Navahang
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Net TV Farsi
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Omid-E-Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",OXIR
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Pars TV
+https://livestream.5centscdn.com/parstvtvweb1/e8ac8f595b3003ea3d22178c05c67593.sdp/playlist.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",PBC Tapesh TV
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persian Music Channel
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana China
+https://chinahls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Documentary
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Podcast
+https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Reality
+https://realhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Persiana Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Project Leon
+https://pleonhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Ravi
+https://hls.ravitv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Royal TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Sat 7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Shabakeh7
+https://sh7hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Tapesh 2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",TBN Nejat
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="شبکه‌های ماهواره‌ای",Your Time TV
+https://live.yourtime.tv/hls/stream.m3u8
