@@ -184,3 +184,20 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://kphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="برای تست",beIN SPORTS NEWS
 https://v-bein.mofidictv.workers.dev/live/beIN_SPORTS_NEWS.m3u8
+
+#EXTINF:-1 group-title="ورزشی برای تست",شبکه سه | تلوبیون
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",شبکه ورزش | تلوبیون
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",تلوبیون ورزش ۱
+https://live-aburayhan1101.telewebion.ir/ek/sport1/live/108050p/index.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",تلوبیون ورزش ۲
+https://live-aburayhan1106.telewebion.ir/ek/sport2/live/108050p/index.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",تلوبیون ورزش ۳
+https://live-aburayhan1111.telewebion.ir/ek/sport3/live/108050p/index.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",Persiana Sports 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",Persiana Sports 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
+#EXTINF:-1 group-title="ورزشی برای تست",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
