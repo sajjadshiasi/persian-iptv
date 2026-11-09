@@ -201,3 +201,36 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 group-title="ورزشی برای تست",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",BBC News Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Radio Farda TV
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ماهواره‌ای برای تست",Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 group-title="دری برای تست",Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="دری برای تست",Amu TV
+https://jmc-live.ercdn.net/amutv/amutv.m3u8
